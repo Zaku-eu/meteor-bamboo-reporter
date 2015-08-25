@@ -1,11 +1,11 @@
-# zaku-eu:bamboo-reporter
+# zaku:bamboo-reporter
 
 Reports test results to bamboo.json
 
 ## Install
 
 ```bash
-meteor add zaku-eu:bamboo-reporter
+meteor add zaku:bamboo-reporter
 ```
 
 add bamboo.json to your gitignore

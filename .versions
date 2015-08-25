@@ -1,4 +1,5 @@
-meteor@1.1.4
-underscore@1.0.2
-velocity:console-reporter@0.1.0
+coffeescript@1.0.6
+meteor@1.1.6
+underscore@1.0.3
 velocity:shim@0.1.0
+zaku:bamboo-reporter@0.0.1
